@@ -1,0 +1,5 @@
+Start the program with "sh sprut.sh".
+
+Make the settings.
+
+The limit operation per ip is completed.
